@@ -1,9 +1,9 @@
-# Getting Started with Create React App
+# Google Auth GSI
 
 This repository is about Google Auth, where the user is asked to log in to the Google account to get the necessary permissions from the app.
 
-For now, it only performs the following:
-`Implicit flow`: requests the token, loads calendar events, and sends a new calendar event.
+For now, it only performs the following:\
+`Implicit flow`: requests the token, loads calendar events, and sends a new calendar event.\
 `Authorization code flow`: requests a code to send to the server.
 
 ## Description
